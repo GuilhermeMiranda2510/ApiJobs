@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "fzEo1iKbxYesKiIS95mubU4UC5s/AbG6pKMSuq1cHCrcKZ7N8os6jsiilFerg/5Y0AA8Lb/1Qnx5e4IoI1hOEQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Gui\\Desktop\\ApiJobs\\src\\ApiJobs.Business\\ApiJobs.Business.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Gui\\.nuget\\packages\\fluentvalidation\\10.3.6\\fluentvalidation.10.3.6.nupkg.sha512",
+    "C:\\Users\\Gui\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.29\\microsoft.windowsdesktop.app.ref.6.0.29.nupkg.sha512",
+    "C:\\Users\\Gui\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.29\\microsoft.netcore.app.ref.6.0.29.nupkg.sha512",
+    "C:\\Users\\Gui\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.29\\microsoft.aspnetcore.app.ref.6.0.29.nupkg.sha512"
+  ],
+  "logs": []
+}

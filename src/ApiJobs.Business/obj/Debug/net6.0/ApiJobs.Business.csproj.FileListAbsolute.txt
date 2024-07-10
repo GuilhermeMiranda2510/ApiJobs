@@ -1,0 +1,12 @@
+C:\Users\Gui\Desktop\ApiJobs\src\ApiJobs.Business\bin\Debug\net6.0\ApiJobs.Business.deps.json
+C:\Users\Gui\Desktop\ApiJobs\src\ApiJobs.Business\bin\Debug\net6.0\ApiJobs.Business.dll
+C:\Users\Gui\Desktop\ApiJobs\src\ApiJobs.Business\bin\Debug\net6.0\ApiJobs.Business.pdb
+C:\Users\Gui\Desktop\ApiJobs\src\ApiJobs.Business\obj\Debug\net6.0\ApiJobs.Business.csproj.AssemblyReference.cache
+C:\Users\Gui\Desktop\ApiJobs\src\ApiJobs.Business\obj\Debug\net6.0\ApiJobs.Business.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gui\Desktop\ApiJobs\src\ApiJobs.Business\obj\Debug\net6.0\ApiJobs.Business.AssemblyInfoInputs.cache
+C:\Users\Gui\Desktop\ApiJobs\src\ApiJobs.Business\obj\Debug\net6.0\ApiJobs.Business.AssemblyInfo.cs
+C:\Users\Gui\Desktop\ApiJobs\src\ApiJobs.Business\obj\Debug\net6.0\ApiJobs.Business.csproj.CoreCompileInputs.cache
+C:\Users\Gui\Desktop\ApiJobs\src\ApiJobs.Business\obj\Debug\net6.0\ApiJobs.Business.dll
+C:\Users\Gui\Desktop\ApiJobs\src\ApiJobs.Business\obj\Debug\net6.0\refint\ApiJobs.Business.dll
+C:\Users\Gui\Desktop\ApiJobs\src\ApiJobs.Business\obj\Debug\net6.0\ApiJobs.Business.pdb
+C:\Users\Gui\Desktop\ApiJobs\src\ApiJobs.Business\obj\Debug\net6.0\ref\ApiJobs.Business.dll

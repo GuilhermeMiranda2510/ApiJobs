@@ -1,0 +1,15 @@
+C:\Users\Gui\Desktop\ApiJobs\src\ApiJobs.Data\obj\Debug\net6.0\ApiJobs.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gui\Desktop\ApiJobs\src\ApiJobs.Data\obj\Debug\net6.0\ApiJobs.Data.AssemblyInfoInputs.cache
+C:\Users\Gui\Desktop\ApiJobs\src\ApiJobs.Data\obj\Debug\net6.0\ApiJobs.Data.AssemblyInfo.cs
+C:\Users\Gui\Desktop\ApiJobs\src\ApiJobs.Data\obj\Debug\net6.0\ApiJobs.Data.csproj.CoreCompileInputs.cache
+C:\Users\Gui\Desktop\ApiJobs\src\ApiJobs.Data\obj\Debug\net6.0\ApiJobs.Data.csproj.AssemblyReference.cache
+C:\Users\Gui\Desktop\ApiJobs\src\ApiJobs.Data\bin\Debug\net6.0\ApiJobs.Data.deps.json
+C:\Users\Gui\Desktop\ApiJobs\src\ApiJobs.Data\bin\Debug\net6.0\ApiJobs.Data.dll
+C:\Users\Gui\Desktop\ApiJobs\src\ApiJobs.Data\bin\Debug\net6.0\ApiJobs.Data.pdb
+C:\Users\Gui\Desktop\ApiJobs\src\ApiJobs.Data\bin\Debug\net6.0\ApiJobs.Business.dll
+C:\Users\Gui\Desktop\ApiJobs\src\ApiJobs.Data\bin\Debug\net6.0\ApiJobs.Business.pdb
+C:\Users\Gui\Desktop\ApiJobs\src\ApiJobs.Data\obj\Debug\net6.0\ApiJobs..F80250FA.Up2Date
+C:\Users\Gui\Desktop\ApiJobs\src\ApiJobs.Data\obj\Debug\net6.0\ApiJobs.Data.dll
+C:\Users\Gui\Desktop\ApiJobs\src\ApiJobs.Data\obj\Debug\net6.0\refint\ApiJobs.Data.dll
+C:\Users\Gui\Desktop\ApiJobs\src\ApiJobs.Data\obj\Debug\net6.0\ApiJobs.Data.pdb
+C:\Users\Gui\Desktop\ApiJobs\src\ApiJobs.Data\obj\Debug\net6.0\ref\ApiJobs.Data.dll

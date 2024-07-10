@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Gui\\Desktop\\ApiJobs\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FA09BA02-1EAD-4ED3-B113-1F50CB0ACA34}|ApiJobs\\ApiJobs.csproj|c:\\users\\gui\\desktop\\apijobs\\apijobs\\controllers\\empresacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FA09BA02-1EAD-4ED3-B113-1F50CB0ACA34}|ApiJobs\\ApiJobs.csproj|solutionrelative:apijobs\\controllers\\empresacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA09BA02-1EAD-4ED3-B113-1F50CB0ACA34}|ApiJobs\\ApiJobs.csproj|c:\\users\\gui\\desktop\\apijobs\\apijobs\\controllers\\candidatocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FA09BA02-1EAD-4ED3-B113-1F50CB0ACA34}|ApiJobs\\ApiJobs.csproj|solutionrelative:apijobs\\controllers\\candidatocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CandidatoController.cs",
+              "DocumentMoniker": "C:\\Users\\Gui\\Desktop\\ApiJobs\\ApiJobs\\Controllers\\CandidatoController.cs",
+              "RelativeDocumentMoniker": "ApiJobs\\Controllers\\CandidatoController.cs",
+              "ToolTip": "C:\\Users\\Gui\\Desktop\\ApiJobs\\ApiJobs\\Controllers\\CandidatoController.cs",
+              "RelativeToolTip": "ApiJobs\\Controllers\\CandidatoController.cs",
+              "ViewState": "AQIAADUAAAAAAAAAAAAwwDwAAAA7AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-10T19:43:53.614Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "EmpresaController.cs",
+              "DocumentMoniker": "C:\\Users\\Gui\\Desktop\\ApiJobs\\ApiJobs\\Controllers\\EmpresaController.cs",
+              "RelativeDocumentMoniker": "ApiJobs\\Controllers\\EmpresaController.cs",
+              "ToolTip": "C:\\Users\\Gui\\Desktop\\ApiJobs\\ApiJobs\\Controllers\\EmpresaController.cs",
+              "RelativeToolTip": "ApiJobs\\Controllers\\EmpresaController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACQAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-10T19:39:13.629Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
